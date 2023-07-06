@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Kaushalya Rathnayaka.</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Network Engineer from Sri Lanka</h3>
 
 - I’m currently learning **Fullstack Development Course, Python Essentials Course**
 
